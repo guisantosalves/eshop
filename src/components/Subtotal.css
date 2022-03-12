@@ -2,13 +2,13 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    width: 300px;
+    width: 400px;
     height: 100px;
     padding: 20px;
     background-color: #f3f3f3;
     border: 1px solid #dddddd;
     border-radius: 3px;
-    margin-left: 400px;
+    margin-left: 300px;
     
 }
 
