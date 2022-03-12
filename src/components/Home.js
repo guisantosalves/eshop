@@ -15,13 +15,13 @@ function Home(){
                         <Product 
                             title="eaeaeaeaeaeaeaeaeaeaeaeaeaeeaeaeaeaeaeaeaeaeaaeaeaeaeaeaea"
                             price={11.50}
-                            rating={5}
+                            rating={2}
                             image="https://i.pinimg.com/564x/34/25/bd/3425bd90c47964fbd363feb48a13c5f3.jpg"
                         />
                         <Product 
                             title="fkjasdlfjsapdiofjioasdpfjspafpodsajfpjsaodjfposdafjopsadkfposd"
                             price={12.50}
-                            rating={5}
+                            rating={3}
                             image="https://i.pinimg.com/564x/14/0f/67/140f67c8be82150fa0df5bebfd175233.jpg"
                         />
                     </div>
